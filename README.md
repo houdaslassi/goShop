@@ -22,8 +22,8 @@ A simple command-line shopping cart application built with Go. Created as a lear
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/goshop.git
-cd goshop
+git clone https://github.com/houdaslassi/goShop.git
+cd goShop
 ```
 
 2. Run the application:
